@@ -11,6 +11,7 @@ on:
     workflows: ["dispatch workflow"]
     type:
       - complete
+      - requested
       
 jobs:
   say_hi:
